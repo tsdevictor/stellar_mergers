@@ -1,2 +1,3 @@
 .venv
 COMPAS_outputs/
+**/COMPAS_Output*/
