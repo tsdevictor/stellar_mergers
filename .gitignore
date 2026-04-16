@@ -1,3 +1,6 @@
 .venv
 COMPAS_outputs/
 **/COMPAS_Output*/
+COMPAS_Output*/
+.DS_Store
+*.h5
